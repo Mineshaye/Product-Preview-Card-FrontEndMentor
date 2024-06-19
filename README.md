@@ -1,4 +1,5 @@
 # Frontend Mentor - Product preview card component
+link to live site https://mineshaye.github.io/Product-Preview-Card-FrontEndMentor/
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
